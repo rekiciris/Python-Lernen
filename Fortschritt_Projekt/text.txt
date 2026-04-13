@@ -1,0 +1,2 @@
+Hallo! Das ist meine erste Datei, die ich mit Python erstellt habe. 
+Ich lerne gerade, wie man Daten speichert.
