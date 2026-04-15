@@ -1,0 +1,4 @@
+Hallo! Das ist meine erste Datei, die ich mit Python erstellt habe. 
+Ich lerne gerade, wie man Daten speichert.
+Heute ist ein neuer Tag und ich lerne weiter.
+Diese Zeile wird einfach unten dran geklebt!
