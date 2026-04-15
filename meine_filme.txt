@@ -1,0 +1,4 @@
+Spiderman
+Terminator
+La La Land
+C:\Users\rekic\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/rekic/Desktop/Programmieren_Lernen/Mein_Erstes_Projekt/uebung_4.4(kino).py"
