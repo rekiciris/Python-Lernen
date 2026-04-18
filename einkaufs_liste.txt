@@ -3,3 +3,6 @@ Bananen
 Äpfel
 Brot
 Kaffee
+Brot
+Salami
+Buch
