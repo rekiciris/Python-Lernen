@@ -1,2 +1,3 @@
 Hallo! Das ist mein allererster gespeicherter Text.
 Diese Zeile wird dauerhaft auf der Festplatte gespeichert!
+Das hier ist ein Nachtrag vom Sonntagabend!
