@@ -20,7 +20,7 @@ else:
 while True:
     print("\n--- SPARSCHWEIN ---")
     print("1: Einzahlen!")
-    print("2: Kunden-Infos anzeigen")
+    print("2: Kontostand anzeigen")
     print("3: Speichern & Beenden")
     
     wahl = input("Was möchtest du tun? (1-3): ")
