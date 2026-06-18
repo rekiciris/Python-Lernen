@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Anna",
+        "job": "K\u00f6chin",
+        "gehalt": 3500
+    },
+    {
+        "name": "John",
+        "job": "Reinigungskraft",
+        "gehalt": 2000
+    }
+]
