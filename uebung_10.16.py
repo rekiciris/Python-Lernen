@@ -57,4 +57,4 @@ while True:
         with open("warenkorb.json", "w") as datei:
             json.dump(liste_fuer_json, datei, indent=4)
         print("Warenkorb erfolgreich gespeichert!")
-        break
+        break 
